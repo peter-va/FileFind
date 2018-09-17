@@ -1,0 +1,12 @@
+total 744
+-rwxr-xr-x  1 Peter  staff   64364 Sep 17 11:58 FileFind.out
+-rwxr-xr-x@ 1 Peter  staff     301 Apr  9 00:25 Makefile
+-rw-r--r--  1 Peter  staff       0 Sep 17 12:00 currDir.txt
+-rwxr-xr-x@ 1 Peter  staff    2427 Apr  9 00:25 directory.cpp
+-rwxr-xr-x@ 1 Peter  staff     850 Apr  9 00:25 directory.h
+-rw-r--r--  1 Peter  staff  108348 Sep 17 11:58 directory.o
+-rwxr-xr-x@ 1 Peter  staff    3090 Apr  9 00:25 list.cpp
+-rwxr-xr-x@ 1 Peter  staff     542 Apr  9 00:25 list.h
+-rwxr-xr-x@ 1 Peter  staff    1271 Apr  9 00:25 main.cpp
+-rw-r--r--  1 Peter  staff  173980 Sep 17 11:58 main.o
+-rwxr-xr-x@ 1 Peter  staff     993 Apr  9 00:25 p6Files.txt
